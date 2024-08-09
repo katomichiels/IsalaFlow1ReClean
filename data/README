@@ -1,0 +1,11 @@
+Where to find the data:
+
+You can find it on the server at:
+    /home/thies/repos/IsalaFlow1ReClean/data
+
+Before running the code, make sure to copy the files in:
+    data/processed
+    data/raw
+
+
+
